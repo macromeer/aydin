@@ -122,6 +122,12 @@ Install *Aydin* in the environment:
 ```bash
 pip install aydin
 ```
+In case of compatibility problems between Napari and Pydantic, please upgrade Napari:
+
+```bash
+pip install napari --upgrade
+```
+
 
 ### CUDA dependencies:
 
